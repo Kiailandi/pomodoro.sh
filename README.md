@@ -4,6 +4,8 @@ A simple pomodoro "app" written in bash.
 
 [Pomodoro.sh](pomodoro.sh) is also a nice domain name, but I don't really want to pay **$35** for it :D
 
+It is currently tested and works on both Linux and MacOS.
+
 # HOW TO
 
 - clone the repo with `git clone https://github.com/Kiailandi/pomodoro.sh`
